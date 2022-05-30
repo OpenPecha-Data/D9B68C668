@@ -1,0 +1,22 @@
+id: D9B68C668
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-02-24T10:24:08+00:00'
+last_modified: '2022-05-30T06:26:43.068881+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    6c5e:
+      image_group_id: I1PD95961
+      title: མདོ་སྡེ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོའི་རྣམ་པར་བཤད་པ།
+      total_pages: 1880
+      order: 116
+      base_file: 6c5e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
